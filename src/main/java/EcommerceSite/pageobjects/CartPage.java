@@ -43,5 +43,7 @@ public class CartPage extends AbstractComponent{
 	}
 	
 	
+	System.out.println("hi gitub")
+	
 
 }
