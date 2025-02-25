@@ -58,6 +58,7 @@ public class AbstractComponent {
 	{
 		
 		Thread.sleep(1000);
+		System.out.println("hiiiii this github")
 		//WebDriverWait wait=new WebDriverWait(driver,Duration.ofSeconds(10));
 		
 		//wait.until(ExpectedConditions.invisibilityOf(ele));
